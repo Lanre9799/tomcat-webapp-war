@@ -9,7 +9,7 @@ pipeline{
   stages{
     stage('1. Git'){
       steps{
-        git branch: 'Declarative', url: 'https://github.com/Lanre9799/tomcat-webapp-war.git'
+        git branch: 'declarative', url: 'https://github.com/Lanre9799/tomcat-webapp-war.git'
       }
     }
     stage('2. maven'){
