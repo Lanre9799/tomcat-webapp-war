@@ -94,13 +94,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name> tomcat-webapp-prod </name>
-	      <url>http://16.171.30.144:8081/repository/tomcat-webapp-prod/</url>
+	      <url>http://51.20.84.248:8081/repository/tomcat-webapp-prod/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name> tomcat-webapp-dev </name>
-	      <url>http://16.171.30.144:8081/repository/tomcat-webapp-dev/</url>
+	      <url>http://51.20.84.248:8081/repository/tomcat-webapp-dev/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
